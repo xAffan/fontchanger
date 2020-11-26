@@ -2,10 +2,10 @@
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v3.0.0.1-blue.svg?longCache=true&style=popout-square"
+    <img src="https://img.shields.io/badge/Version-v3.0.0.3-blue.svg?longCache=true&style=popout-square"
       alt="Version" />
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-March 05, 2020-green.svg?longCache=true&style=flat-square"
+    <img src="https://img.shields.io/badge/Updated-November 26, 2020-green.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" />
 </div>
 
@@ -83,7 +83,7 @@ If for whatever reason you bootloop and you dont have twrp, just wait 60 seconds
 - For creating some awesome fonts! <a href="https://forum.xda-developers.com/apps/magisk/avfonts-march-6-t3760827">@lupin_the_third</a>
 
 ## Changelog
-## v3.0.0.3 - 26.11.2020
+## v3.0.0.3 - 11.26.2020
 * Final version
 
 ## v3.0.0.2 - 3.13.2020
